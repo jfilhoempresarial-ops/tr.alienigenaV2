@@ -1,3 +1,5 @@
-import { home } from "./pages/home.js";
+// src/app.js
+console.log('🚛 Tr.Alienigena V2 - App carregado!');
 
-document.getElementById("app").innerHTML = home();
+// Aqui depois colocaremos todo o JavaScript modularizado
+// Por enquanto, só para testar
