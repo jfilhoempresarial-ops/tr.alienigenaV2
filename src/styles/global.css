@@ -1,4 +1,12 @@
-/* Copie TODO o CSS que estava dentro da tag <style> do index original aqui */
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:#f4f4f4;color:#1a1a1a;font-family:'Barlow',sans-serif;min-height:100vh}
-/* ... e todo o resto ... */
+/* src/styles/global.css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Barlow', sans-serif;
+  background: #f4f4f4;
+  color: #1a1a1a;
+}
+/* Depois você coloca todo o CSS original aqui */
